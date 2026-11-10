@@ -1,0 +1,10 @@
+.vercel
+qa/
+business.json
+research.json
+pitch.json
+design-review.md
+design.json
+critique.md
+.recent-designs.json
+*.log
